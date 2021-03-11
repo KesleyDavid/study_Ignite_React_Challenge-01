@@ -38,10 +38,12 @@
     <img alt="Move.it" title="Move.it" src=".github/preview.png" />
 </p>
 
-## ⚡️ Preview
+<hr>
+
+## ✨ Preview
 
 Sistema Online  
-[https://study-ignite-react-challenge-01.vercel.app/](https://study-ignite-react-challenge-01.vercel.app//)
+[https://study-ignite-react-challenge-01.vercel.app](https://study-ignite-react-challenge-01.vercel.app//)
 
 ## 💻 Project
 
@@ -55,7 +57,7 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
   
 Este é um projeto desenvolvido durante o treinamento **[Ignite - Trilha React](https://rocketseat.com.br/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
 
-## 🚀 Technologies
+## 🔖 Technologies
 
 This project was developed using the following technologies:
 
@@ -86,6 +88,11 @@ $ yarn dev
 ```
 
 ## 🥇 Tests
+
+Run tests
+```bash
+$ yarn test
+```
 
 ![alt text](./.github/tests.png?raw=true)
 
