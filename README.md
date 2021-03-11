@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="Moveit" src=".github/banner.png" width="100%">
+  <img alt="Banner" src=".github/banner.png" width="100%">
 </h1>
 
 <p align="center">
-    <img alt="Move.it" title="Move.it" src=".github/logo.png" width="75px" />
+    <img alt="Logo" title="Logo" src=".github/logo.png" width="75px" />
     <h3 align="center">To.do</h3>
 </p>
 
@@ -11,14 +11,12 @@
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tests">Tests</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
 <p align="center">
-
-  <!-- <a href="#">🚧</a> -->
 
   <img alt="In development" src="https://img.shields.io/static/v1?label=info&message=🚧&color=FFFFFF&labelColor=FFFFFF">
 
@@ -47,9 +45,9 @@ Sistema Online
 
 ## 💻 Project
 
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
+Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS.  
 
-Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.  
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
@@ -59,11 +57,33 @@ Este é um projeto desenvolvido durante o treinamento **[Ignite - Trilha React](
 
 ## 🚀 Technologies
 
-Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Jest](https://jestjs.io/)
+
+## 🚀 Getting started
+
+Clone the project
+
+```bash
+$ git clone https://github.com/KesleyDavid/study_Ignite_React_Challenge-01.git
+```
+
+Access the folder
+```bash
+$ cd study_Ignite_React_Challenge-01
+```
+
+Follow the steps below
+```bash
+# Install the dependencies
+$ yarn
+
+# Start the project
+$ yarn dev
+```
 
 ## 🥇 Tests
 
@@ -72,9 +92,9 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 ---
 
-<p align="center">Feito com ♥ by Kesley DEV</p>
+<p align="center">Made with ♥ by Kesley DEV</p>
