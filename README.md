@@ -19,7 +19,7 @@
 <p align="center">
 
   <a href="#">
-    <img alt="In development" src="https://img.shields.io/static/v1?label=info&message=In development&color=FFFFFF&labelColor=4d4d4d">
+    <img alt="development" src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=FFFFFF&labelColor=4d4d4d">
   </a>
 
   <a href="https://www.linkedin.com/in/kesleydavid/">
