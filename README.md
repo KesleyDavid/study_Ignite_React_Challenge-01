@@ -18,14 +18,28 @@
 
 <p align="center">
 
-  <img alt="In development" src="https://img.shields.io/static/v1?label=info&message=🚧&color=FFFFFF&labelColor=FFFFFF">
+  <a href="#">
+    <img alt="In development" src="https://img.shields.io/static/v1?label=info&message=In development&color=FFFFFF&labelColor=4d4d4d">
+  </a>
 
   <a href="https://www.linkedin.com/in/kesleydavid/">
-    <img src="https://img.shields.io/static/v1?label=dev&message=KesleyDEV&color=0093DC&labelColor=4d4d4d" alt="Kesley DEV" />
+    <img src="https://img.shields.io/badge/KesleyDEV-0093DC?style=flat&logo=linkedin&labelColor=0093DC">
   </a>
 
   <a href="https://study-ignite-react-challenge-01.vercel.app/">
     <img alt="Deploy" src="https://img.shields.io/static/v1?label=deploy&message=Vercel&color=28F5BE&labelColor=4d4d4d">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/github/stars/KesleyDavid/study_Ignite_React_Challenge-01?label=stars&message=MIT&color=28F5BE&labelColor=4d4d4d" alt="Stars">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/github/forks/KesleyDavid/study_Ignite_React_Challenge-01?label=forks&message=MIT&color=28F5BE&labelColor=4d4d4d" alt="Forks">  
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=28F5BE&labelColor=4d4d4d" alt="PRs welcome!" />
   </a>
 
   <a href="./LICENSE">
@@ -47,15 +61,15 @@ Sistema Online
 
 ## 💻 Project
 
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS.  
+In this challenge, you will have to create an application to train what you have learned so far at ReactJS.
 
-Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.  
+This will be an application where your main objective is a small application of activities to do, to train a little more about state manipulation in React.
 
-- Adicionar uma nova tarefa
-- Remover uma tarefa
-- Marcar e desmarcar uma tarefa como concluída
+- Add a new task
+- Remove a task
+- Mark and unmark a task as completed
   
-Este é um projeto desenvolvido durante o treinamento **[Ignite - Trilha React](https://rocketseat.com.br/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
+This is a project developed during the **[Ignite - Trilha React](https://rocketseat.com.br/)**, carried out by **[@Rocketseat](https://github.com/Rocketseat)**.
 
 ## 🔖 Technologies
 
