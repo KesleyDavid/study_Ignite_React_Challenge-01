@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/kesleydavid/" target="_blank">
+    <a href="#" target="_blank">
       <img alt="Logo" title="Logo" src=".github/logo.png" width="75px" />
     </a>
     <h3 align="center">To.do</h3>
