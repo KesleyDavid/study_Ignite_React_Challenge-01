@@ -1,13 +1,11 @@
 <h1 align="center">
   <a href="https://www.linkedin.com/in/kesleydavid/" target="_blank">
     <img alt="Banner" src=".github/banner.png" width="100%">
-  <a>
+  </a>
 </h1>
 
 <p align="center">
-    <a href="#" target="_blank">
-      <img alt="Logo" title="Logo" src=".github/logo.png" width="75px" />
-    </a>
+    <img alt="Logo" title="Logo" src=".github/logo.png" width="75px" />
     <h3 align="center">To.do</h3>
 </p>
 
