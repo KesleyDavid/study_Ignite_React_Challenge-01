@@ -1,9 +1,13 @@
 <h1 align="center">
-  <img alt="Banner" src=".github/banner.png" width="100%">
+  <a href="https://www.linkedin.com/in/kesleydavid/" target="_blank">
+    <img alt="Banner" src=".github/banner.png" width="100%">
+  <a>
 </h1>
 
 <p align="center">
-    <img alt="Logo" title="Logo" src=".github/logo.png" width="75px" />
+    <a href="https://www.linkedin.com/in/kesleydavid/" target="_blank">
+      <img alt="Logo" title="Logo" src=".github/logo.png" width="75px" />
+    </a>
     <h3 align="center">To.do</h3>
 </p>
 
@@ -22,11 +26,11 @@
     <img alt="development" src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=FFFFFF&labelColor=4d4d4d">
   </a>
 
-  <a href="https://www.linkedin.com/in/kesleydavid/">
+  <a href="https://www.linkedin.com/in/kesleydavid/" target="_blank">
     <img src="https://img.shields.io/badge/KesleyDEV-0093DC?style=flat&logo=linkedin&labelColor=0093DC">
   </a>
 
-  <a href="https://study-ignite-react-challenge-01.vercel.app/">
+  <a href="https://study-ignite-react-challenge-01.vercel.app/" target="_blank">
     <img alt="Deploy" src="https://img.shields.io/static/v1?label=deploy&message=Vercel&color=28F5BE&labelColor=4d4d4d">
   </a>
 
@@ -118,4 +122,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-<p align="center">Made with ♥ by Kesley DEV</p>
+<p align="center">Made with ♥ by <a href="https://www.linkedin.com/in/kesleydavid/" target="_blank">Kesley DEV</a></p>
